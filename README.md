@@ -1,6 +1,7 @@
 # hello-word
-It's a test to tame Git and GitHub.
+It's a brand new test to tame Git and GitHub.
 
-Hi Humans !
+Spurz here, I like handball and oomph-lib.
+Love.
 
-Spurz here, I like handball and oomph-lib. Love.
+Handballistiquement, Spurzie.
