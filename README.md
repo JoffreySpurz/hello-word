@@ -9,5 +9,3 @@ Love.
 Handballistiquement, Spurzie.
 
 Je suis sur une branche secondaire, modifiée localement avec git.
-
-C'est une test sur une branche.
